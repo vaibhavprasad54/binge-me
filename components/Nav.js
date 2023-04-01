@@ -17,7 +17,7 @@ function Nav() {
                     key={key}>{title}</h2>
             ))}
         </div>
-        <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202A] h-10 w-1/12 " />             {/*Fading the last nav item*/}
+        <div className="absolute top-0 right-0 bg-gradient-to-l from-[#240b36] h-10 w-1/12 " />             {/*Fading the last nav item*/}
     </nav>
   )
 }
